@@ -7,7 +7,7 @@ publish = false
 edition = "2021"
 
 [dependencies]
-anyhow = { version = "1.0.57", features = ["backtrace"] }
+anyhow = { version = "1.0.58", features = ["backtrace"] }
 clap = { version = "3.1.17", features = ["derive"] }
 multiaddr = "0.14.0"
 prometheus_exporter = "0.8.4"
